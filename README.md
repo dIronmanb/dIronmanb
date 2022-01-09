@@ -1,9 +1,8 @@
 ### Hi there 👋
 Thank you for visiting my Github. I am attending Kwangwoon University and the department is Robotics. I am very interested in robots and AI, and now I deal with ROS and Neural Network. I will post works that apply what I learned later, so please pay a lot of attention.:laughing::laughing:
 
-
-
 ![dIronmanb's GitHub stats](https://github-readme-stats.vercel.app/api?username=dIronmanb&show_icons=true&theme=dark)
+![dIronmanb's Programming Usage Frequency](https://github-readme-stats.vercel.app/api/top-langs/?username=dIronmanb&langs_count=8)
 
 
 <!--
