@@ -3,9 +3,9 @@ Thank you for visiting my Github. I am attending Kwangwoon University and the de
 
 
 
-![dIronmanb's GitHub stats](https://github-readme-stats.vercel.app/api?username=dIronmanb&show_icons=true&theme=dark)
+<!-- ![dIronmanb's GitHub stats](https://github-readme-stats.vercel.app/api?username=dIronmanb&show_icons=true&theme=dark)
 <br>
-![dIronmanb's Programming Usage Frequency](https://github-readme-stats.vercel.app/api/top-langs/?username=dIronmanb&langs_count=8)
+![dIronmanb's Programming Usage Frequency](https://github-readme-stats.vercel.app/api/top-langs/?username=dIronmanb&langs_count=8) -->
 
 <br><br>
 
